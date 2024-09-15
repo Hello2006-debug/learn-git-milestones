@@ -434,7 +434,7 @@ Now that we have basic Git commands out of the way use Git to create and turn in
 Row | Step | Description | Completed
 --- | --- | --- | ---
 1 | 4-1 | 1st Favorite emoji | 🫡
-2 | 4-2 | Link to `commit #1 from Github.com` |
+2 | 4-2 | Link to `commit #1 from Github.com` |06dc8ed8b4cfeec2829c541e04c46ac93466e4ac
 3 | 4-3 | Link to markdown tables docs |
 4 | 4-4 | What does `log` do? |
 5 | 5-1 | 2nd Favorite emoji |
