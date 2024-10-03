@@ -438,7 +438,7 @@ Row | Step | Description | Completed
 3 | 4-3 | Link to markdown tables docs |https://docs.codeberg.org/markdown/tables-in-markdown/
 4 | 4-4 | What does `log` do? |displays committed snapshots
 5 | 5-1 | 2nd Favorite emoji |😂
-6 | 5-2 | Link to `commit #2 from Github Desktop` |
+6 | 5-2 | Link to `commit #2 from Github Desktop` |https://github.com/Hello2006-debug/learn-git-milestones/commit/a41ad7370f329fae9800ddba548edf82854a7cba
 7 | 6-1 | Full path to your working directory |
 8 | 6-2 | Link to `commit #3 from CLI` |
 9 | 7-1 | Link to `first-website` github.com repo page |
