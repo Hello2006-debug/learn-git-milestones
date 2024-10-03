@@ -441,8 +441,8 @@ Row | Step | Description | Completed
 6 | 5-2 | Link to `commit #2 from Github Desktop` |https://github.com/Hello2006-debug/learn-git-milestones/commit/a41ad7370f329fae9800ddba548edf82854a7cba
 7 | 6-1 | Full path to your working directory |/c/Users/mugen
 8 | 6-2 | Link to `commit #3 from CLI` |
-9 | 7-1 | Link to `first-website` github.com repo page |
-10 | 8-1 | Link to `first-website` github.io "project site" |
+9 | 7-1 | Link to `first-website` github.com repo page |https://github.com/Hello2006-debug/dig245-unbranding
+10 | 8-1 | Link to `first-website` github.io "project site" |https://hello2006-debug.github.io/dig245-unbranding/
 12 | 9-1 | What is in Owen's dev branch? | 
 13 | 10-1 | Link to your new branch on github.com | 
 14 | 11-1 | Link to your network graph | 
