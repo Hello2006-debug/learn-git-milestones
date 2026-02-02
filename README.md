@@ -444,7 +444,7 @@ Row | Step | Description | Completed
 8 | 6-2 | Link to `commit #3 from CLI` |https://github.com/Hello2006-debug/learn-git-milestones/commit/2ece25d1164d08adb5660ad8636b98f151a9d7b1
 9 | 7-1 | Link to `first-website` github.com repo page |https://github.com/Hello2006-debug/dig245-unbranding
 10 | 8-1 | Link to `first-website` github.io "project site" |https://hello2006-debug.github.io/dig245-hello-world/
-12 | 9-1 | What is in Owen's dev branch? | https://github.com/omundy/learn-git-milestones/branches
+12 | 9-1 | What is in Owen's dev branch? | A video file containing the classic Rick Astley song - it's a rickroll!
 13 | 10-1 | Link to your new branch on github.com | https://github.com/Hello2006-debug/learn-git-milestones/tree/main
 14 | 11-1 | Link to your network graph | https://github.com/Hello2006-debug/learn-git-milestones/pulse
 15 | 12-1 | Link to the PR you made on a partner's github.com repo | https://github.com/omundy/learn-git-milestones/pulls
