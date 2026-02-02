@@ -449,26 +449,6 @@ Row | Step | Description | Completed
 14 | 11-1 | Link to your network graph | https://github.com/Hello2006-debug/learn-git-milestones/pulse
 15 | 12-1 | Link to the PR you made on a partner's github.com repo | https://github.com/omundy/learn-git-milestones/pulls
 =======
-1 | 4a | 1st Favorite emoji | ADD_TEXT_HERE
-2 | 4b | Link to `commit #1 from Github.com` |
-3 | 4c | Link to markdown tables docs |
-4 | 4d | What does `log` do? |
-5 | 5a | 2nd Favorite emoji |
-6 | 5b | Link to `commit #2 from Github Desktop` |
-7 | 6a | Full path to your working directory |
-8 | 6b | Link to `commit #3 from CLI` |
-9 | 7 | 3rd Favorite emoji |
-10 | 8 | Link to `commit #4 from VS Code` |
-11 | 9a | Link to `first-website` github.com repo page |
-12 | 9a | Link to `first-website` github.io "project site" |
-13 | 10a | The name of Owen's dev branch | A video file containing the classic Rick Astley song - it's a rickroll!
-14 | 10b | Link to your new branch on github.com | 
-15 | 10c | Link to your pull request github.com | 
-16 | 10d | Link to the commit you made on a partner's github.com repo | 
->>>>>>> Stashed changes
-
-
-
 
 
 ## Resources
