@@ -448,7 +448,7 @@ Row | Step | Description | Completed
 13 | 10-1 | Link to your new branch on github.com | https://github.com/Hello2006-debug/learn-git-milestones/tree/main
 14 | 11-1 | Link to your network graph | https://github.com/Hello2006-debug/learn-git-milestones/pulse
 15 | 12-1 | Link to the PR you made on a partner's github.com repo | https://github.com/omundy/learn-git-milestones/pulls
-=======
+
 
 
 ## Resources
