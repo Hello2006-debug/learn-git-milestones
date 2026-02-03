@@ -447,7 +447,7 @@ Row | Step | Description | Completed
 12 | 9-1 | What is in Owen's dev branch? | A video file containing the classic Rick Astley song - it's a rickroll!
 13 | 10-1 | Link to your new branch on github.com | https://github.com/Hello2006-debug/learn-git-milestones/tree/Melissa-changes
 14 | 11-1 | Link to your network graph | https://github.com/omundy/learn-git-milestones/network
-15 | 12-1 | Link to the PR you made on a partner's github.com repo | https://github.com/omundy/learn-git-milestones/pulls
+15 | 12-1 | Link to the PR you made on a partner's github.com repo |https://github.com/mafajardo23/learn-git-milestones/pull/1
 
 
 
